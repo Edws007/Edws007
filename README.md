@@ -1,7 +1,7 @@
 Olá! Eu sou a Valéria Santos😊
 ## Redes Sociais
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santossilvavaleria/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Meios de estudo
 [![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
 [![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/vss2090)
@@ -13,6 +13,7 @@ Olá! Eu sou a Valéria Santos😊
 
 
 ![Valéria GitHub stats](https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Tecnologias de Desenvolvimento que aplico no dia a dia
 <div>
