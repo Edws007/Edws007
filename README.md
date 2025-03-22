@@ -1,3 +1,4 @@
+Seja bem-vindo!😊
 Sou estagiária em tecnologia da informação na CETESB, entusiasta da área de desenvolvimento full-stack com Inglês intermediário. Apaixonada e curiosa para entender a melhor forma de gerar valor para as empresas por meio da utilização da tecnologia.
 ## Redes Sociais
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santossilvavaleria/)
