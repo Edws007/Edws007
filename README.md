@@ -26,7 +26,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=chartreuse-dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=chartreuse-dark"/>
 
 ##
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/santossilvavaleria/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=21c42c&color:FFF)](https://www.linkedin.com/in/santossilvavaleria/)
 <div>
 <img align="right" alt="Val-gif" height="150" weight="70" src="https://github.com/user-attachments/assets/cd41b69e-2fb8-4f4b-b6eb-0949f2d0853b">
 </div>
@@ -48,9 +48,9 @@
 </div>
           
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edws007/Edws007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edws007/Edws007/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edws007/Edws007/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edws007//Edws007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Edws007//Edws007/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//Edws007//Edws007/output/github-contribution-grid-snake.svg">
 </picture>
 
           
