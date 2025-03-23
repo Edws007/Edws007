@@ -13,8 +13,7 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=merko"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko"/>
 
 <div>
     <img align="center"  alt="html5" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
