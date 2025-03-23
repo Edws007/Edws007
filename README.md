@@ -19,8 +19,8 @@
     <img align="center" alt="bootstrap" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center"  alt="Edws-sqlserver" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center"  alt="Edws-SqlLite" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-    <img align="center" alt="Edws-MySQL"
-    height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="Edws-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="Edws-Godot" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 </div><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=chartreuse-dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=chartreuse-dark"/>
