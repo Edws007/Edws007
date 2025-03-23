@@ -4,7 +4,7 @@
 
 
 
-### Linguagens e Bancos
+### 🖥️ Linguagens e Bancos
 <div>
     <img align="center"  alt="html5" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
     <img align="center"  alt="css"  height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
@@ -27,12 +27,12 @@
 <img align="right" alt="Val-gif" height="150" weight="70" src="https://github.com/user-attachments/assets/cd41b69e-2fb8-4f4b-b6eb-0949f2d0853b">
 </div>
 
-### Perfis de plataformas de estudo
+### 📖 Perfis de plataformas de estudo
 [![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
 [![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/vss2090)
 
 
-### IDEs 
+### ⚙️ IDEs 
 <div>
     <img align="center"  alt="arduino" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
     <img align="center"  alt="eclipse" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
