@@ -2,7 +2,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=merko"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko"/>
 
-<div>
+<div style="display: inline_block" ><br>
     <img align="center"  alt="html5" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" >
     <img align="center"  alt="css"  height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
     <img align="center"  alt="Python" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -10,6 +10,7 @@
     <img align="center" alt="c" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img align="center" alt="php" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img align="center" alt="bootstrap" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+    <img align="right" alt="Val-gif" height="150" weight="70" src="https://github.com/user-attachments/assets/cd41b69e-2fb8-4f4b-b6eb-0949f2d0853b">
 </div>
 
 ##
@@ -44,3 +45,7 @@
 
            
           
+
+
+
+
