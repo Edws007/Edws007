@@ -38,7 +38,6 @@
 
 ### ⚙️ IDEs que utilizo
 <div>
-    <img align="center"  alt="arduino" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
     <img align="center"  alt="eclipse" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
     <img align="center"  alt="replit" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
     <img align="center"  alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
