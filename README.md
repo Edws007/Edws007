@@ -27,7 +27,7 @@
 <img align="right" alt="Val-gif" height="150" weight="70" src="https://github.com/user-attachments/assets/cd41b69e-2fb8-4f4b-b6eb-0949f2d0853b">
 </div>
 
-### Perfis de estudo
+### Perfis de plataformas de estudo
 [![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
 [![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/vss2090)
 
