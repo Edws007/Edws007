@@ -36,7 +36,7 @@
 [![social](https://img.shields.io/badge/-Duolingo-000?style=for-the-badge&logo=Duolingo&logoColor=21c42c&color:FFF)](https://pt.duolingo.com/profile/vss2090)
 
 
-### ⚙️ IDEs 
+### ⚙️ IDEs que utilizo
 <div>
     <img align="center"  alt="arduino" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
     <img align="center"  alt="eclipse" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
