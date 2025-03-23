@@ -19,7 +19,7 @@
     height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=merko"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=rose"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=rose"/>
 
 ##
 <div>
@@ -28,8 +28,8 @@
 </div>
 
 ### 📖 Perfis de plataformas de estudo
-[![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
-[![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/vss2090)
+[![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
+[![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=black)](https://pt.duolingo.com/profile/vss2090)
 
 
 ### ⚙️ IDEs 
