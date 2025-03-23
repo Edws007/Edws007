@@ -1,6 +1,10 @@
-### Seja Bem-vindo!😊
 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+Seja+Bem-vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 
 
@@ -19,17 +23,17 @@
     height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=rose"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=rose"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edws007&show_icons=false&theme=chartreuse-dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=chartreuse-dark"/>
 
 ##
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/santossilvavaleria/)
 <div>
-<a href="https://www.linkedin.com/in/santossilvavaleria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img align="right" alt="Val-gif" height="150" weight="70" src="https://github.com/user-attachments/assets/cd41b69e-2fb8-4f4b-b6eb-0949f2d0853b">
 </div>
 
 ### 📖 Perfis de plataformas de estudo
-[![social](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=black)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
-[![social](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=black)](https://pt.duolingo.com/profile/vss2090)
+[![social](https://img.shields.io/badge/-Udemy-000?style=for-the-badge&logo=udemy&logoColor=21c42c&color:FFF)](https://www.udemy.com/user/valeria-dos-santos-silva-3/)
+[![social](https://img.shields.io/badge/-Duolingo-000?style=for-the-badge&logo=Duolingo&logoColor=21c42c&color:FFF)](https://pt.duolingo.com/profile/vss2090)
 
 
 ### ⚙️ IDEs 
@@ -43,7 +47,11 @@
           
 </div>
           
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
           
 
